@@ -6,22 +6,24 @@ Hi I'm ProgrammerAL
 
 I'm Android Developer
 
-![android](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/e0eab5e8-76d9-49d2-a88a-1a99dc44eec5)
-
 
 
 I can work C# too
 
-![C#](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/2f17e3a3-2a7f-421c-ab7f-f0f7cc840ae5)
+
+
 
 
 In Android i can work whit Java and Kotlin
+
+
 I can work whit JetPack Compose and Xml in android
+
+
 this link is for my youtube channel
+
+
 http://www.youtube,com/@ProgrammerAL11
-
-![Youtube_logo](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/ec2b1c96-6cc7-4ac8-a7e9-ef4840b64fb5)
-
 
 
 i always like to learn more thing than programming
