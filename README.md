@@ -35,8 +35,8 @@ my life = eat , sleap , code , repeat { / } ;
 ![ProgrammerAL](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a9758696-0b47-45b6-8afa-8ae6094c1ae2)
 
 
+ProgrammerAL{/}
 
-//
 ![Android Gf1](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/538d50f9-9587-478e-aee0-d55ffd9237b9)
 
-ProgrammerAL{/}
+
