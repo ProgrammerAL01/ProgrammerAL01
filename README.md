@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProgrammerAL01
-- 👀 I’m interested in in programming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate with a company
 - 📫 How to reach me ؟ We will talk together and fix it
