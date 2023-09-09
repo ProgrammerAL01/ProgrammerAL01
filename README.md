@@ -1,6 +1,6 @@
 Hi I'm ProgrammerAL
 
-![19286327891599781003-256](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/9a797903-b90d-4ae9-8949-bd9864104f44)
+![ProgrammerAL](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a9758696-0b47-45b6-8afa-8ae6094c1ae2)
 
 
 
@@ -32,7 +32,6 @@ i always like to learn more thing than programming
 
 my life = eat , sleap , code , repeat { / } ;
 
-![ProgrammerAL](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a9758696-0b47-45b6-8afa-8ae6094c1ae2)
 
 
 ProgrammerAL{/}
