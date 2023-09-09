@@ -15,19 +15,8 @@ I can work C# too
 ![C#](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/2f17e3a3-2a7f-421c-ab7f-f0f7cc840ae5)
 
 
-
 In Android i can work whit Java and Kotlin
-
-![java or kotlin](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/6f6b0af3-0dd8-4c71-9c00-d051e382e982)
-
-
-
 I can work whit JetPack Compose and Xml in android
-
-![jetpack compose](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/96ca99af-c03f-4807-9950-e452356060e7)
-
-
-
 this link is for my youtube channel
 http://www.youtube,com/@ProgrammerAL11
 
