@@ -1,6 +1,8 @@
 Hi I'm ProgrammerAL
 
 ![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/738b7b12-05da-417b-a115-b1719871f2de)
+![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/6c8fc5dd-ceca-41c3-9573-febc2c1ecbbf)
+
 
 ![ProgrammerAL](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a9758696-0b47-45b6-8afa-8ae6094c1ae2)
 
@@ -34,6 +36,8 @@ i always like to learn more thing than programming
 
 
 ![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/beb48284-47c1-4fcc-aeb2-15d662dae3e5)
+![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a2b475e5-6bd8-49d3-a7ef-3a0934518878)
+
 
 my life = eat , sleap , code , repeat { / } ;
 
@@ -41,6 +45,6 @@ my life = eat , sleap , code , repeat { / } ;
 
 ProgrammerAL{/}
 
-![Android Gf1](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/538d50f9-9587-478e-aee0-d55ffd9237b9)
+tps://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/538d50f9-9587-478e-aee0-d55ffd9237b9)
 
 
