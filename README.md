@@ -8,30 +8,29 @@
 ![ProgrammerAL](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a9758696-0b47-45b6-8afa-8ae6094c1ae2)
 
 
-
-I'm Android Developer
-
+    I'm Android Developer
 
 
-I can work C# too
 
+    I can work C# too
 
 
 
 
-In Android i can work whit Java and Kotlin
+
+    In Android i can work whit Java and Kotlin
 
 
-I can work whit JetPack Compose and Xml in android
+    I can work whit JetPack Compose and Xml in android
 
 
-this link is for my youtube channel
+    this link is for my youtube channel
 
 
-http://www.youtube,com/@ProgrammerAL11
+    http://www.youtube,com/@ProgrammerAL11
 
 
-i always like to learn more thing than programming
+    i always like to learn more thing than programming
 
 ![Android Gf2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/f7e8128b-3457-4205-a218-710a1a1bafc8)
 
@@ -40,11 +39,11 @@ i always like to learn more thing than programming
 ![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a2b475e5-6bd8-49d3-a7ef-3a0934518878)
 
 
-my life = eat , sleap , code , repeat { / } ;
+    my life = eat , sleap , code , repeat { / } ;
+  
 
 
-
-ProgrammerAL{/}
+    ProgrammerAL{/}
 
 ![Android Gf1](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/87842e4a-ef96-47cc-a197-d457f0925f75)
 
