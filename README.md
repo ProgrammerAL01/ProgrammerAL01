@@ -30,6 +30,10 @@
 
 ![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/beb48284-47c1-4fcc-aeb2-15d662dae3e5)
 ![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a2b475e5-6bd8-49d3-a7ef-3a0934518878)
+![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/6c8fc5dd-ceca-41c3-9573-febc2c1ecbbf)
+![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/6c8fc5dd-ceca-41c3-9573-febc2c1ecbbf)
+![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/6c8fc5dd-ceca-41c3-9573-febc2c1ecbbf)
+![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/6c8fc5dd-ceca-41c3-9573-febc2c1ecbbf)
 
 
     my life = eat , sleap , code , repeat { / } ;
