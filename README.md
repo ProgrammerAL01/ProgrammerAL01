@@ -34,9 +34,17 @@ i always like to learn more thing than programming
 
 ![Android Gf1](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/87842e4a-ef96-47cc-a197-d457f0925f75)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 <body>
     <progress max="100" value="50"></progress>
 </body>
+</html>
 
 
 
