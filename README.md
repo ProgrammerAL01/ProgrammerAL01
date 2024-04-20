@@ -1,5 +1,5 @@
 # Hi I'm ProgrammerAL
-![687474~2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/ff1ddcfb-86e0-452d-aff2-9f47da0a0ff8)
+
 ![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/738b7b12-05da-417b-a115-b1719871f2de)
 ![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/6c8fc5dd-ceca-41c3-9573-febc2c1ecbbf)
 
@@ -46,3 +46,4 @@ i always like to learn more thing than programming
     <progress max="100" value="50"></progress>
 </body>
 </html>
+![687474~2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/ff1ddcfb-86e0-452d-aff2-9f47da0a0ff8)
