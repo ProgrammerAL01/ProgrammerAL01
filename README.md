@@ -46,4 +46,3 @@ i always like to learn more thing than programming
     <progress max="100" value="50"></progress>
 </body>
 </html>
-![687474~2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/ff1ddcfb-86e0-452d-aff2-9f47da0a0ff8)
