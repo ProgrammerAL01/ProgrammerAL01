@@ -6,18 +6,7 @@
 
 ![ProgrammerAL](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a9758696-0b47-45b6-8afa-8ae6094c1ae2)
 
- I'm Android Developer
-
-  I can work C# too
-
-  In Android i can work whit Java and Kotlin
-
-  I can work whit JetPack Compose and Xml in android
-
-  this link is for my youtube channel
-  http://www.youtube,com/@ProgrammerAL11
-
-i always like to learn more thing than programming
+Work with:C#,Android(Kotlin,Java),Html-css
 
 ![Android Gf2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/f7e8128b-3457-4205-a218-710a1a1bafc8)
 
@@ -35,14 +24,3 @@ i always like to learn more thing than programming
 
 ![Android Gf1](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/87842e4a-ef96-47cc-a197-d457f0925f75)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <progress max="100" value="50"></progress>
-</body>
-</html>
