@@ -7,7 +7,3 @@
 ![ProgrammerAL](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a9758696-0b47-45b6-8afa-8ae6094c1ae2)
 
 Work with:C#,Android(Kotlin,Java),Html-css
-
-![Android Gf2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/f7e8128b-3457-4205-a218-710a1a1bafc8)
-
-
