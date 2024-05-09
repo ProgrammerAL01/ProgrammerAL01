@@ -11,16 +11,3 @@ Work with:C#,Android(Kotlin,Java),Html-css
 ![Android Gf2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/f7e8128b-3457-4205-a218-710a1a1bafc8)
 
 
-![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/beb48284-47c1-4fcc-aeb2-15d662dae3e5)
-![line2](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/a2b475e5-6bd8-49d3-a7ef-3a0934518878)
-
-
-
- my life = eat , sleap , code , repeat { / } ;
-  
-
-
- ProgrammerAL{/}
-
-![Android Gf1](https://github.com/ProgrammerAL01/ProgrammerAL01/assets/141438585/87842e4a-ef96-47cc-a197-d457f0925f75)
-
